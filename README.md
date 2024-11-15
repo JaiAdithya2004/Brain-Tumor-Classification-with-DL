@@ -53,13 +53,12 @@ Optimization 🧬: Model is compiled with the Adam optimizer and binary cross-en
 The model achieved impressive metrics on the test set:
 
 Accuracy 🎯: 80%
-Precision ✅: 70%
-Recall 🔄: 70%
 
 🚀 Deployment
 
 The model is deployed using Flask to enable easy access to predictions.The UI is attached Below.
 
+![Screenshot 2024-11-15 112633](https://github.com/user-attachments/assets/cbc26c77-9b20-48a4-b7a2-df533062046c)
 
 
 
