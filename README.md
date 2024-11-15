@@ -52,9 +52,9 @@ Optimization 🧬: Model is compiled with the Adam optimizer and binary cross-en
 📊 Results
 The model achieved impressive metrics on the test set:
 
-Accuracy 🎯: 95%
-Precision ✅: 93%
-Recall 🔄: 94%
+Accuracy 🎯: 80%
+Precision ✅: 70%
+Recall 🔄: 70%
 
 🚀 Deployment
 
